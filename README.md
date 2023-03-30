@@ -1,2 +1,3 @@
-# git-test
-A test for VS Code
+## Contributors
+
+Sincere Clarke
